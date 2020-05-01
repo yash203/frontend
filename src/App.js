@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React if you really want to!...usning docker volumes and compose !!
+          Learn React with fun!! want to!...usning docker volumes and compose !!
         </a>
       </header>
     </div>
