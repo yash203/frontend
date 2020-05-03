@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with fun!! want to!...usning docker volumes and compose !!
+          Learn React with fun inside AWS cloud !! want to!...usning docker volumes and compose !!
         </a>
       </header>
     </div>
